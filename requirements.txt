@@ -1,0 +1,15 @@
+timm~=0.9.7
+einops~=0.6.1
+future
+tensorboard
+mmengine~=0.8.4
+rich~=13.5.2
+torch~=2.0.1
+numpy~=1.25.2
+tqdm~=4.66.1
+requests~=2.31.0
+matplotlib~=3.7.2
+opencv-python~=4.8.0.76
+setuptools~=67.8.0
+pandas~=2.1.0
+mmcv~=2.0.1
